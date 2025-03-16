@@ -8,6 +8,7 @@ for (var i = 0; i < ds_list_size(global.afterimage_list); i++)
 			if (alarm[l] >= 0)
 				alarm[l]--
 		}
+		
 		switch identifier
 		{
 			case afterimage.mach2effect:

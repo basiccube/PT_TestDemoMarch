@@ -1,3 +1,3 @@
-hooked = 0
+hooked = false
 hookable = true
 hspeed = 2

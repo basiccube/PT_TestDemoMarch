@@ -39,6 +39,7 @@ if (targetDoor == "E" && instance_exists(obj_doorE))
 	y = (obj_doorE.y - 14)
 }
 hallway = false
+
 if (global.shroomfollow == 1)
     instance_create(x, y, obj_pizzakinshroom)
 if (global.cheesefollow == 1)

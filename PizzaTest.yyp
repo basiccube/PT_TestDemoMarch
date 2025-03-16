@@ -237,7 +237,6 @@
     {"id":{"name":"rm_tower_5","path":"rooms/rm_tower_5/rm_tower_5.yy",},"order":5,},
   ],
   "Options": [
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Android","path":"options/android/options_android.yy",},
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
     {"name":"iOS","path":"options/ios/options_ios.yy",},
@@ -246,6 +245,7 @@
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -318,6 +318,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.0.2.51",
+    "IDEVersion": "2022.0.3.85",
   },
 }
